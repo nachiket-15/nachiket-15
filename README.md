@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/nachiket_15" target="blank"><img src="https://img.shields.io/twitter/follow/nachiket_15?logo=twitter&style=for-the-badge" alt="nachiket_15" /></a> </p>
 
 - 🌱 I’m currently learning **SQL**
-
+## 📫 To reach out to me : deshmukhns21.comp@coeptech.ac.in 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nachiket_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nachiket_15" height="30" width="40" /></a>
