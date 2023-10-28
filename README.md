@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nachiket Deshmukh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">An aspiring engineer who is keen to learn and explore new things . A focused and ambitious individual who is willing to grab all the opportunities coming along the way !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiket-15&label=Profile%20views&color=0e75b6&style=flat" alt="nachiket-15" /> </p>
 
